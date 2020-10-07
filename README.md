@@ -5,8 +5,8 @@ Hello , My Name is Aya
 - 👯 I’m looking to collaborate on data science projects 
 - 🤔 I’m looking for help with machine learning 
 - 💬 Ask me about business development , data analysis , python , software engineering 
-- 📫 How to reach me: ayaakhaled12@gmail.com
-- 😄 Pronouns: A y a [Here is my linkedin account](https://www.linkedin.com/in/aya-khaled-b3b186147/)
+- 📫 How to reach me: [Gmail](ayaakhaled12@gmail.com) ,  [My linkedin account](https://www.linkedin.com/in/aya-khaled-b3b186147/)
+- 😄 Pronouns: A y a
 - ⚡ Fun fact: I cannot start my day without Pepsi 😄
 
 
