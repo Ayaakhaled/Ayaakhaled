@@ -2,8 +2,6 @@
 
 <!--
 **Ayaakhaled/Ayaakhaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 Hello , My Name is Aya
 - 🔭 I’m currently working on Business and Data analysis field
 - 🌱 I’m currently learning Data science and machine learning 
