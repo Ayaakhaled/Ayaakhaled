@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Ayaakhaled/Ayaakhaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hello , My Name is Aya
 - 🔭 I’m currently working on Business and Data analysis field
 - 🌱 I’m currently learning Data science and machine learning 
@@ -11,3 +8,7 @@ Hello , My Name is Aya
 - 📫 How to reach me: ayaakhaled12@gmail.com
 - 😄 Pronouns: A y a [Here is my linkedin account](https://www.linkedin.com/in/aya-khaled-b3b186147/)
 - ⚡ Fun fact: I cannot start my day without Pepsi 😄
+
+
+<!--
+**Ayaakhaled/Ayaakhaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
